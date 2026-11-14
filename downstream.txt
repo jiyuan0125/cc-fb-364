@@ -1,0 +1,9 @@
+task_id,task_name,dep_from,dep_to
+DS-01,daily_report,2026-09-25,2026-10-08
+DS-02,weekly_roundup,2026-09-26,2026-10-02
+DS-03,ops_dashboard,2026-09-30,2026-10-05
+DS-04,creator_settlement,2026-10-01,2026-10-08
+DS-05,review_pack,2026-09-25,2026-09-26
+DS-06,recall_update,2026-10-05,2026-10-06
+DS-07,quality_patrol,2026-09-25,2026-09-25
+DS-08,monthly_archive,2026-10-06,2026-10-08
